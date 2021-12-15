@@ -147,7 +147,7 @@
     "NA": "Namibia",
     "NR": "Nauru",
     "NP": "Nepal",
-    "NL": "Netherlands",
+    "NL": ["Netherlands", "Nederland"],
     "NC": "New Caledonia",
     "NZ": "New Zealand",
     "NI": "Nicaragua",
@@ -161,10 +161,7 @@
     "OM": "Oman",
     "PK": "Pakistan",
     "PW": "Palau",
-    "PS": [
-        "State of Palestine",
-        "Palestine"
-    ],
+    "PS": ["State of Palestine","Palestine"],
     "PA": "Panama",
     "PG": "Papua New Guinea",
     "PY": "Paraguay",
